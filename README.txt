@@ -4,8 +4,8 @@ Welcome to the TyperZ installation guide.
 
 To install the software, please follow these steps:
 
-1. **Download the Setup File:**
-   - Ensure you have the setup file ('setup.exe`) located on your computer or inside TyperZ package.
+1. **Download the whole folder as zip & download Setup File:**
+   - Ensure you have the setup file ('setup.exe`) located on your computer, AND INSIDE TyperZ package.
 
 2. **Run the Setup File:**
    - Double-click on `setup.exe` to start the installation process.
@@ -24,4 +24,5 @@ To install the software, please follow these steps:
 
 Thank you for installing TyperZ!
 Best regards,
+
 The TyperZ Team
